@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-<h1>This is MA2 question 9<h2>
+<h1>This is the aswer for MA2 question 9<h2>
   </div>
 </template>
 
